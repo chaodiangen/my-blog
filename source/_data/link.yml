@@ -1,0 +1,14 @@
+- class_name: 友情链接
+  class_desc: 那些人，那些事
+  link_list:
+    - name: 就像风住了风の博客
+      link: https://chaodiangen.github.io/
+      avatar: https://bu.dusays.com/2022/01/14/cd5ffd485f867.jpg
+      descr: 又起这样看你，用所有的时间和距离，就像风住了风又起。
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: Twitter
+      link: https://twitter.com/
+      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+      descr: 社交分享平台
